@@ -13,9 +13,9 @@ const Header = () => {
           {/* Logo and branding */}
           <Link to="/" className="flex items-center space-x-3">
             <img 
-              src="/lovable-uploads/d0730bc4-2a86-4527-8a7f-fd8efa034793.png" 
-              alt="HydroVeda Logo" 
-              className="h-10 w-auto bg-transparent"
+              src="/path/to/hydroveda-logo.png" 
+              alt="HydroVeda" 
+              className="h-12 w-auto"
               style={{ background: 'transparent' }}
             />
           </Link>
