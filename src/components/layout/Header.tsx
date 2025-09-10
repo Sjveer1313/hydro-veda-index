@@ -15,7 +15,7 @@ const Header = () => {
             <img 
               src="/lovable-uploads/HydroVeda1.png" 
               alt="HydroVeda" 
-              className="h-16 w-auto"
+              className="h-13 w-auto"
             />
           </Link>
 
