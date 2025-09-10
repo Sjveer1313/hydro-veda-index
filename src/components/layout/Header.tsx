@@ -13,7 +13,7 @@ const Header = () => {
           {/* Logo and branding */}
           <Link to="/" className="flex items-center space-x-3">
             <img 
-              src="/path/to/hydroveda-logo.png" 
+              src="public/lovable-uploads/HydroVeda1.png" 
               alt="HydroVeda" 
               className="h-12 w-auto"
               style={{ background: 'transparent' }}
